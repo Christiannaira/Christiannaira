@@ -1,5 +1,6 @@
-hi there! (*/ω＼*) I'm Christian Naira 🙈🙉! 19 years old, currently living here in Philippines.
+hi there! I'm Christian Naira 🙈🙉, a full-stack developer based in Philippines.
 
-I'm obsessed in building stuffs such as personal development, marketing, cool stuffs, and design. 😎
+I love to build stuffs in web development. I also do self-improvement contents, graphic designing, digital marketing and video production.
 
-I've started to learn coding back in August 2022 where I began typing python, and diving in web development, learning html, css, javascript, bootstrap, git and github, react, and others.
+I started to code back in august 2022, where my first language is python with its django. Then I dive into web development learning hmtl, css,
+javascrip, php, sql, bootstrap, react, laravel, git, vercel,, nodejs, jquery, tailwind and others.
